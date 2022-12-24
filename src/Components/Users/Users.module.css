@@ -1,0 +1,9 @@
+.photo {
+    width: 100px;
+    border-radius: 100px;
+}
+
+.content {
+    grid-area: c;
+    background-color: gold;
+}

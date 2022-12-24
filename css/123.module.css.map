@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACK,AAAD,YAAO,CAAC;EACJ,MAAM,EAAE,MAAM;EACd,gBAAgB,EAAE,IAAI;CACzB",
+    "sources": [
+        "../src/Components/scss/123.scss"
+    ],
+    "names": [],
+    "file": "123.module.css"
+}
